@@ -27,6 +27,10 @@
             "pages": ["swiss/qr-bill", "swiss/mwst"]
           },
           {
+            "group": "Formats",
+            "pages": ["formats/till-settlement", "formats/write-a-connector"]
+          },
+          {
             "group": "Self-hosting",
             "pages": ["self-hosting/under-an-hour", "self-hosting/served-access", "self-hosting/threat-model", "self-hosting/cost-sheet"]
           }
